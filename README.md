@@ -1,10 +1,12 @@
 E-commerce Website Project Documentation
-Project Overview
-The goal of this project is to develop a functional and visually appealing e-commerce website that allows users to browse products, add items to the shopping cart, and complete the purchase using a secure payment gateway. The website will be built using front-end technologies (HTML, CSS, JavaScript) with Razorpay integrated for payment processing.
+
+
+Project Overview:
+This project aims to develop a functional and visually appealing e-commerce website that allows users to browse products, add items to the shopping cart, and complete the purchase using a secure payment gateway. The website will be built using front-end technologies (HTML, CSS, JavaScript) with Razorpay integrated for payment processing.
 ________________________________________
 Technologies Used
 1. Front-End Development
-•	HTML (Hypertext Markup Language): HTML will be used to create the structure of the website, including the homepage, product listing page, individual product pages, shopping cart page, and checkout pages.
+•	HTML (Hypertext Markup Language): HTML will be used to create the website's structure, including the homepage, product listing page, individual product pages, shopping cart page, and checkout pages.
 •	CSS (Cascading Style Sheets): CSS will be used to style the website to make it visually appealing and user-friendly. CSS will control layout, typography, colors, and responsiveness to ensure the website works well on all devices (desktop, tablet, and mobile).
 •	JavaScript: JavaScript will be used to add interactivity to the website. For example, it will handle dynamic changes to the shopping cart, update product quantities, and calculate total prices. JavaScript will also be used to interact with the Razorpay API for payment integration.
 2. Payment Gateway Integration
@@ -12,7 +14,7 @@ Technologies Used
 ________________________________________
 Tools & Development Environment
 1. VS Code
-•	VS Code (Visual Studio Code) will be used as the primary integrated development environment (IDE) for writing HTML, CSS, JavaScript code. It provides a wide range of features like IntelliSense, syntax highlighting, and extensions that make coding easier and more efficient.
+•	VS Code (Visual Studio Code) will be used as the primary integrated development environment (IDE) for writing HTML, CSS, Java Script code. It provides a wide range of features like IntelliSense, syntax highlighting, and extensions that make coding easier and more efficient.
 2. Sublime Text
 •	Sublime Text will also be used as an alternative code editor. It is lightweight and has powerful features like multi-line editing, quick navigation, and package support for extending functionality.
 3. Browsers:
